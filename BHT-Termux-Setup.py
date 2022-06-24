@@ -3,7 +3,7 @@ import sys
 import time
 
 def des():
-    os.system("python2 BHT-Termux-Setup.py")
+    os.system("python2 BHT-Termux-Design.py")
 
 
 def logo():
