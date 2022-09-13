@@ -14,36 +14,30 @@ os.system('pkg install ruby -y')
 os.system('gem install lolcat')
 
 
-logo = ("""\033[1;32m
-       
-                                                                              
-                                                                            
-BBBBBBBBBBBBBBBBB        HHHHHHHHH     HHHHHHHHH     TTTTTTTTTTTTTTTTTTTTTTT
-B::::::::::::::::B       H:::::::H     H:::::::H     T:::::::::::::::::::::T
-B::::::BBBBBB:::::B      H:::::::H     H:::::::H     T:::::::::::::::::::::T
-BB:::::B     B:::::B     HH::::::H     H::::::HH     T:::::TT:::::::TT:::::T
-  B::::B     B:::::B       H:::::H     H:::::H       TTTTTT  T:::::T  TTTTTT
-  B::::B     B:::::B       H:::::H     H:::::H               T:::::T        
-  B::::BBBBBB:::::B        H::::::HHHHH::::::H               T:::::T        
-  B:::::::::::::BB         H:::::::::::::::::H               T:::::T        
-  B::::BBBBBB:::::B        H:::::::::::::::::H               T:::::T        
-  B::::B     B:::::B       H::::::HHHHH::::::H               T:::::T        
-  B::::B     B:::::B       H:::::H     H:::::H               T:::::T        
-  B::::B     B:::::B       H:::::H     H:::::H               T:::::T        
-BB:::::BBBBBB::::::B     HH::::::H     H::::::HH           TT:::::::TT      
-B:::::::::::::::::B      H:::::::H     H:::::::H           T:::::::::T      
-B::::::::::::::::B       H:::::::H     H:::::::H           T:::::::::T      
-BBBBBBBBBBBBBBBBB        HHHHHHHHH     HHHHHHHHH           TTTTTTTTTTT \033
-__________________×______________________
+logo = ("""
+\033[93;1m  ____        _    _   _______ ______          __  __ 
+
+\033[1;32m |  _ \      | |  | | |__   __|  ____|   /\   |  \/  |
+
+\033[91;1m | |_) |_____| |__| |    | |  | |__     /  \  | \  / |
+
+\033[95;1m |  _ <______|  __  |    | |  |  __|   / /\ \ | |\/| |
+
+\033[94;1m | |_) |     | |  | |    | |  | |____ / ____ \| |  | |
+
+\033[93;1m |____/      |_|  |_|    |_|  |______/_/    \_\_|  |_|
+
+                                                   
+_________________________________________________________________
   
   Auther   :  BD-JAHIED 
  
   Github   :  BLACK-HUNTER-TEEM
 
-  Facebook : ROOT.OFF.JAHIED
+  Group    : BLACK HUNTER TEAM 
   
-  Contact : +8801747951169
-__________________×______________________\033[1;37m""")
+  Contact  : +8801747951169
+__________________________________________________________________\033[1;37m""")
 os.system('xdg-open https://m.facebook.com/100076888617615')
 
 
