@@ -59,7 +59,7 @@ clr()
 logo()
 print(yellow+"\n\n\t\t[🔥] Selecte Your Options [🔥]")
 os.system("lolcat print.txt")
-#print(blue+"\n\n\t\t[1] Setup Termux Install All Command Properly\n\t\t[2] FacebooK\n\t\t[3] [!] ExiT [!]")
+#print(blue+"\n\n\t\t[1] Setup Termux Install All\n\t\t[2] FacebooK\n\t\t[3] [!] ExiT [!]")
 opt=int(input(yellow+"\n\n\t\t[$] Enter Your Option : "))
 if opt==1:
    os.system("python set.py")
