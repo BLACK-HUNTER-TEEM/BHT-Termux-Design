@@ -25,9 +25,9 @@ logo = ("""
                                                    
 _________________________________________________________________
   
-  Auther   :  ZAHID HUSSAIN
+  Auther   : ZAHID HUSSAIN
  
-  Github   :  BLACK-HUNTER-TEAM
+  Github   : BLACK-HUNTER-TEAM
 
   Group    : BLACK HUNTER TEAM 
   
