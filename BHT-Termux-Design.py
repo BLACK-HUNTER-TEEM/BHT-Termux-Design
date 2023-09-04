@@ -33,7 +33,7 @@ _________________________________________________________________
   
   Contact  : +8801747951169
 __________________________________________________________________\033[1;37m""")
-os.system('xdg-open https://m.facebook.com/groups/367443570366706/?ref=share')
+os.system('xdg-open https://m.facebook.com/groups/367443570366706')
 
 
 output = '/data/data/com.termux/files/usr/etc/'
