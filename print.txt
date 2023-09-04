@@ -1,6 +1,6 @@
 
 
-		[1] Setup Termux Install All Command Properly
+		[1] Setup Termux Install All
 		[2] Design Termux 
 		[3] FacebooK
 		[4] [!] ExiT [!]
