@@ -66,7 +66,7 @@ echo
 echo "
    < ━━━━━━━━━━━━ [★] 𖧷𖧷👿𝐇.𝐀.𝐂.𝐊.𝐄.𝐑👿 𖧷𖧷[★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "                [𝐀𝐃𝐌𝐈𝐍] 𝐌𝐑.𝐑𝐀𝐊𝐈𝐁 [𝐂𝐄𝐎] ZAHID HUSSAIN " |lolcat
+    echo "                [𝐀𝐃𝐌𝐈𝐍] FARABI [𝐂𝐄𝐎] ZAHID HUSSAIN " |lolcat
 '''
 
 bashrc2 = '''
