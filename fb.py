@@ -1,2 +1,2 @@
 import os
-os.system('xdg-open https://www.facebook.com/100076888617615/')
+os.system('xdg-open https://m.facebook.com/groups/367443570366706')
