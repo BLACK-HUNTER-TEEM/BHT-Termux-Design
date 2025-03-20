@@ -117,7 +117,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'BD-JAHIED' |lolcat
+figlet -f slant 'SYLHET.CYBER.SECURITY' |lolcat
 echo
 echo
 echo 
